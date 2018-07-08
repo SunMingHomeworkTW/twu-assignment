@@ -14,64 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="EasiestExerciseEver.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/EasiestExerciseEver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding>
-                <element signature="e#77#78#0" expanded="true" />
-                <element signature="e#116#117#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DrawAHorizontalLine.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DrawAHorizontalLine.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DrawAVerticalLine.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DrawAVerticalLine.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DrawARightTtriangle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DrawARightTtriangle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IsoscelesTriangle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/IsoscelesTriangle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Diamond.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Diamond.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Diamond.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="20" column="34" lean-forward="false" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+            <state relative-caret-position="454">
+              <caret line="25" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DiamondWithName.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DiamondWithName.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="16" column="36" lean-forward="false" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -103,6 +60,7 @@
         <option value="$PROJECT_DIR$/src/DrawARightTtriangle.java" />
         <option value="$PROJECT_DIR$/src/IsoscelesTriangle.java" />
         <option value="$PROJECT_DIR$/src/Diamond.java" />
+        <option value="$PROJECT_DIR$/src/DiamondWithName.java" />
       </list>
     </option>
   </component>
@@ -172,7 +130,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Diamond">
+  <component name="RunManager" selected="Application.DiamondWithName">
     <configuration name="Diamond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Diamond" />
@@ -187,9 +145,9 @@
       <module name="twu-assignment" />
       <envs />
     </configuration>
-    <configuration name="DrawAHorizontalLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="DiamondWithName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="DrawAHorizontalLine" />
+      <option name="MAIN_CLASS_NAME" value="DiamondWithName" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -324,19 +282,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.DrawAHorizontalLine" />
-      <item index="1" class="java.lang.String" itemvalue="Application.DrawAVerticalLine" />
-      <item index="2" class="java.lang.String" itemvalue="Application.DrawARightTtriangle" />
-      <item index="3" class="java.lang.String" itemvalue="Application.IsoscelesTriangle" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Diamond" />
+      <item index="0" class="java.lang.String" itemvalue="Application.DrawAVerticalLine" />
+      <item index="1" class="java.lang.String" itemvalue="Application.DrawARightTtriangle" />
+      <item index="2" class="java.lang.String" itemvalue="Application.IsoscelesTriangle" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Diamond" />
+      <item index="4" class="java.lang.String" itemvalue="Application.DiamondWithName" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Diamond" />
-        <item index="1" class="java.lang.String" itemvalue="Application.IsoscelesTriangle" />
-        <item index="2" class="java.lang.String" itemvalue="Application.DrawARightTtriangle" />
-        <item index="3" class="java.lang.String" itemvalue="Application.DrawAVerticalLine" />
-        <item index="4" class="java.lang.String" itemvalue="Application.DrawAHorizontalLine" />
+        <item index="0" class="java.lang.String" itemvalue="Application.DiamondWithName" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Diamond" />
+        <item index="2" class="java.lang.String" itemvalue="Application.IsoscelesTriangle" />
+        <item index="3" class="java.lang.String" itemvalue="Application.DrawARightTtriangle" />
+        <item index="4" class="java.lang.String" itemvalue="Application.DrawAVerticalLine" />
       </list>
     </recent_temporary>
   </component>
@@ -350,12 +308,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531037905724</updated>
-      <workItem from="1531037910012" duration="1885000" />
+      <workItem from="1531037910012" duration="2014000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1885000" />
+    <option name="totallyTimeSpent" value="2014000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -471,10 +429,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/twu-assignment.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Diamond.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="20" column="34" lean-forward="false" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        <state relative-caret-position="454">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DiamondWithName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="36" lean-forward="false" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
           <folding />
         </state>
       </provider>
